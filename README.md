@@ -107,7 +107,7 @@ Go to the original repository on GitHub and open a pull request. Provide a detai
 
 ---
 
-<h3>Project Contributers: <h3>
+<h3>Project Contributers ❤️: <h3>
 <a href="https://github.com/maliumesh1/Factopia-Web-App/graphs/contributors">
 <img src="https://contributors-img.web.app/image?repo=maliumesh1/Factopia-Web-App"/>
 
